@@ -1,0 +1,18 @@
+{
+  "name": "my-base-erc20",
+  "version": "1.0.0",
+  "description": "ERC20 token smart contract project using OpenZeppelin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  },
+  "keywords": ["ethereum", "erc20", "openzeppelin", "smart-contract"],
+  "author": "",
+  "license": "MIT"
+}
